@@ -1,10 +1,10 @@
 ---
-title: El regreso del MUÑECO
-pubDate: 27/08/2024 11:25
+title: El regreso del Muñeco
+pubDate: 08/27/2024 11:25
 author: "Gomessen"
 tags:
   - River
-  - Gallardo
+  - Muñe
   - Argentina
 imgUrl: '../../assets/astro.jpeg'
 description: 9 DE AGOSTO DEL 2024 fecha en la que se vuelve a sentir el fresco y verdaceo césped del renovamos monumental de Nuñez en las suelas de los mocasines negros del mítico MARCELO DANIEL GALLARDO.
@@ -28,6 +28,5 @@ Ahora bien, sabemos que la primera época de entrenador por parte del MARCELO DA
 Por el momento la segunda etapa ha tenido un tinte grisaceo en su inicio ya que, desde que Sapardo regresó, el cuadro millonario no ha conseguido los tres puntos en la liga, en tres partidos disputados.
 
 3 empates en liga y 2 victorias vs “Aguante Tállere” (De CÓRDOBA), equipo de los nepotistas mexicanos, Los Martínez. Dentro del marco de la segunda mitad de la gloria, la copa libertadores, han sido los números en el regreso del tan amado MUÑECO, en su retorno al gallinero.
-
 
 A pesar de ello, la afición se encuentra feliz en su vuelta a casa. Los estragos que DeMichelis causó, se notan en el funcionar del equipo, el cual, sobre la marcha se ha intentado “reforzar” durante este tiempo, para así el apodado Napoleón de Merlo pueda volver a dejar su sello futbolístico en River.
