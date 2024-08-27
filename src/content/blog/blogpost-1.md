@@ -1,47 +1,51 @@
 ---
-title: Blogpost 1
-pubDate: 11/09/2022 14:25
-author: "Elian Van Cutsem"
+title: El regreso del MUÑECO
+pubDate: 27/08/2024 11:25
+author: "Gomessen"
 tags:
-  - JavaScript
-  - Astro
-  - UnoCSS
+  - River
+  - Gallardo
+  - Argentina
 imgUrl: '../../assets/astro.jpeg'
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+description: 9 DE AGOSTO DEL 2024 fecha en la que se vuelve a sentir el fresco y verdaceo césped delrenovamos monumental de Nuñez en las suelas de los mocasines negros del mítico MARCELO DANIEL GALLARDO.
 layout: '../../layouts/BlogPost.astro'
 ---
 
-## Deorum petiit ignis
+## ¡VOLVIÓ!
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+9 DE AGOSTO DEL 2024 fecha en la que se vuelve a sentir el fresco y verdaceo césped del
+renovamos monumental de Nuñez en las suelas de los mocasines negros del mítico **MARCELO
+DANIEL GALLARDO**.
 
-## Iovis late orbem Perseus sunt
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
+Después de un atropellado periodo en el cual, si bien existieron títulos de por medio; incluida una
+liga más en las vitrinas del cuadro millonario, a cargo del ex-académico Martín “Micho” Demichelis.
 
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
 
-## Longum minus sic saepe
+El Micho, no logró convencer del todo al gallinero entero, pues las actuaciones no fueron del todo
+satisfactorias para la pupila tribunera; aquella que siempre está, la que siempre fiel está apoyando
+en cada enfrentamiento al cual, el equipo de la banda le toque ser participe.
 
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
 
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
+Ahora bien, sabemos que la primera época de entrenador por parte del MARCELO DANIEL ha sido
+un oráculo de triunfos, grandeza y elegancia dentro del terreno de juego, por parte de cada uno de
+los jugadores que desfilaron en transcurso completo de su proceso. Haciendo a River un foco
+internacional, habiendo sido un equipo clásicamente un equipo caracterizado por ser domador
+absoluto de la liga doméstica, no fue si no, bajo las riendas del gran “Muñeco”, en donde las
+miradas por los títulos internacionales nos notaron de nuevo.
 
-## Geminas namque quod referitur argenteus aderat superstes
 
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
+Por el momento la segunda etapa ha tenido un tinte grisaceo en su inicio ya que, desde que
+Sapardo regresó, el cuadro millonario no ha conseguido los tres puntos en la liga, en tres partidos
+disputados.
 
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.
+
+3 empates en liga y 2 victorias vs “Aguante Tállere” (De CÓRDOBA), equipo de los nepotistas
+mexicanos, Los Martínez. Dentro del marco de la segunda mitad de la gloria, la copa libertadores,
+han sido los números en el regreso del tan amado MUÑECO, en su retorno al gallinero.
+
+
+A pesar de ello, la afición se encuentra feliz en su vuelta a casa. Los estragos que DeMichelis causó,
+se notan en el funcionar del equipo, el cual, sobre la marcha se ha intentado “reforzar” durante
+este tiempo, para así el apodado Napoleón de Merlo pueda volver a dejar su sello futbolístico en
+River.
